@@ -87,20 +87,21 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>DEVELOP</h3>
+              <h3>Brand Managment</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                <p>
+                  I manage brand activities, influencer marketing campaigns, and on-ground executions including shoots and client coordination.
+                </p>
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">Three.js</div>
-                <div className="what-tags">React</div>
-                <div className="what-tags">Css</div>
-                <div className="what-tags">Node.js</div>
+                <div className="what-tags">Brand Strategy</div>
+                <div className="what-tags">Influencer Marketing</div>
+                <div className="what-tags">Campaign Planning</div>
+                <div className="what-tags">Social Media</div>
+                <div className="what-tags">Lead Genration</div>
+                <div className="what-tags">Content Strategy</div>
                 <div className="what-tags">Next.js</div>
                 <div className="what-tags">Express.js</div>
                 <div className="what-tags">PHP</div>
@@ -128,22 +129,23 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>DESIGN</h3>
+              <h3>MARKETING & EXECUTION</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+                <p>
+                  I work on social media marketing, brand campaigns, and brand executions, ensuring smooth coordination and impactful results.
+                </p>
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Blender</div>
-                <div className="what-tags">Zbrush</div>
-                <div className="what-tags">UI Design</div>
-                <div className="what-tags">Motion</div>
-                <div className="what-tags">Rigging</div>
-                <div className="what-tags">3D Animation</div>
-                <div className="what-tags">Character Design</div>
-                <div className="what-tags">Modelling</div>
+                <div className="what-tags">Brand Campaigns</div>
+                <div className="what-tags">Social Media Marketing</div>
+                <div className="what-tags"> Content Planning</div>
+                <div className="what-tags">Digital Marketing</div>
+                <div className="what-tags">Client Handling</div>
+                <div className="what-tags"></div>
+                <div className="what-tags"> </div>
+                <div className="what-tags"></div>
               </div>
               <div className="what-arrow"></div>
             </div>

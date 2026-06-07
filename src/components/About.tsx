@@ -6,9 +6,8 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          I am Taimoor Ahmed, an Assistant Brand Manager based in Islamabad with hands-on experience in brand management, influencer marketing, and digital campaigns. Currently working in Gulberg, I have been actively involved in managing brand activities, coordinating influencer and marketing shoots, handling client engagement, and supporting lead generation campaigns. I am passionate about marketing, creative branding, and building strong brand presence for businesses through impactful strategies and execution.
+          .
         </p>
       </div>
     </div>
