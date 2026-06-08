@@ -18,7 +18,7 @@ const Career = () => {
                 <h4>Assistant Brand Manager</h4>
                 <h5>GULBERG ISLAMABAD</h5>
               </div>
-              <h3>CURRENTLY WORKING</h3>
+              <h3>NOW</h3>
             </div>
             <p>
               Currently managing brand operations, marketing campaigns,
