@@ -6,8 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I am Taimoor Ahmed, an Assistant Brand Manager based in Islamabad with hands-on experience in brand management, influencer marketing, and digital campaigns. Currently working in Gulberg, I have been actively involved in managing brand activities, coordinating influencer and marketing shoots, handling client engagement, and supporting lead generation campaigns. I am passionate about marketing, creative branding, and building strong brand presence for businesses through impactful strategies and execution.
-          .
+          I am Taimoor Ahmed, a Senior Brand & Social Media Executive and Branding Specialist based in Islamabad with 2+ years of experience in social media management, brand building, and content strategy across multiple industries. Skilled in leading cross-functional teams, coordinating with design, content, paid media, and sales teams to execute high-impact campaigns. I have a proven track record in growing followers, boosting engagement, generating leads, and managing influencer collaborations and events. Adept at creative direction, brand consistency, and optimizing campaigns based on analytics and audience insights.
         </p>
       </div>
     </div>

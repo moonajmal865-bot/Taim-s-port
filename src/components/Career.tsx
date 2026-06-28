@@ -15,43 +15,37 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Assistant Brand Manager</h4>
-                <h5>GULBERG ISLAMABAD</h5>
+                <h4>Sr. Brand Executive</h4>
+                <h5>GULBERG ISLAMABAD (IBECHS)</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>JUN 2025 — CURRENT</h3>
             </div>
             <p>
-              Currently managing brand operations, marketing campaigns,
-              influencer coordination, and on-ground executions for Gulberg
-              Islamabad and Green World Towers. Responsible for brand
-              strategy, campaign planning, and execution.
+              Led and managed cross-functional teams in content, design, and social media to build brand presence, increasing followers by 10K+ across Instagram, Facebook, and LinkedIn. Planned and coordinated 5+ events and influencer campaigns reaching 50K+ audience, and generated 200+ qualified leads.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Brand Executive</h4>
-                <h5>IGATE REALTY</h5>
+                <h4>Social Media Manager</h4>
+                <h5>IGATE REALTY (REMOTE)</h5>
               </div>
-              <h3>2024</h3>
+              <h3>JUN 2024 — MAY 2025</h3>
             </div>
             <p>
-              Worked as Senior Brand Executive handling brand communication,
-              marketing campaigns, and digital presence for real estate
-              projects.
+              Managed social media across Instagram, TikTok, Facebook, and LinkedIn, executing content strategies to increase engagement and brand visibility. Developed lead generation campaigns and directed creative assets.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Marketing Executive</h4>
+                <h4>Social Media Executive</h4>
                 <h5>IGATE TECHNOLOGIES</h5>
               </div>
-              <h3>2023</h3>
+              <h3>AUG 2023 — MAY 2024</h3>
             </div>
             <p>
-              Managed social media marketing and brand promotions for RDX Sports,
-              focusing on combat sports audience engagement and digital campaigns.
+              Managed social media content, increasing follower base by 35% and engagement rate by 50%. Coordinated visual/written assets, managed influencer collaborations, and executed a viral content strategy that generated 1M+ reach and drove 30% rise in website traffic.
             </p>
           </div>
         </div>

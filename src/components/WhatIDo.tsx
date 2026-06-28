@@ -100,12 +100,12 @@ const WhatIDo = () => {
                 <div className="what-tags">Influencer Marketing</div>
                 <div className="what-tags">Campaign Planning</div>
                 <div className="what-tags">Social Media</div>
-                <div className="what-tags">Lead Genration</div>
+                <div className="what-tags">Lead Generation</div>
                 <div className="what-tags">Content Strategy</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">PHP</div>
-                <div className="what-tags">MySql</div>
+                <div className="what-tags">Brand Positioning</div>
+                <div className="what-tags">Market Analysis</div>
+                <div className="what-tags">Cross-Functional Teams</div>
+                <div className="what-tags">Consumer Insights</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -140,12 +140,12 @@ const WhatIDo = () => {
               <div className="what-content-flex">
                 <div className="what-tags">Brand Campaigns</div>
                 <div className="what-tags">Social Media Marketing</div>
-                <div className="what-tags"> Content Planning</div>
+                <div className="what-tags">Content Planning</div>
                 <div className="what-tags">Digital Marketing</div>
                 <div className="what-tags">Client Handling</div>
-                <div className="what-tags"></div>
-                <div className="what-tags"> </div>
-                <div className="what-tags"></div>
+                <div className="what-tags">Content Creation</div>
+                <div className="what-tags">Audience Insights</div>
+                <div className="what-tags">Analytics</div>
               </div>
               <div className="what-arrow"></div>
             </div>
