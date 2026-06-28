@@ -13,11 +13,10 @@ import {
 
 const textureLoader = new THREE.TextureLoader();
 const imageUrls = [
-  "/images/ts_influencer.jpg",
-  "/images/ts_digital_marketing.jpg",
-  "/images/ts_brand.jpg",
-  "/images/ts_content_creator.jpg",
-  "/images/ts_instagram.jpg",
+  "/images/ts_meta_ads.jpg",
+  "/images/ts_campaign_planning.jpg",
+  "/images/ts_social_media.jpg",
+  "/images/ts_marketing_analytics.jpg",
 ];
 const textures = imageUrls.map((url) => textureLoader.load(url));
 
